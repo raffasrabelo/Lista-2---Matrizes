@@ -1,0 +1,1 @@
+Estes são os exercícios da lista 2 da disciplina "Linguagens e técnicas de programação I"
